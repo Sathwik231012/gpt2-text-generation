@@ -16,3 +16,24 @@ Aplicable to creative writing, chatbots, tale producing and instruction transfor
 ## Installation
 
 Ensure that you install Python 3.7 or higher. A virtual environment is suggested to be used.
+
+Install dependencies using pip:
+
+pip install transformers torch
+
+## Usage
+
+python gpt2_text_generation.py
+
+Enter a prompt when asked
+
+Type exit to quit
+
+## Files
+
+gpt2_text_generation.py — Main script
+
+README.md — This file
+
+## Author
+Your Name — [GitHub Profile Link]
