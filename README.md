@@ -35,5 +35,7 @@ gpt2_text_generation.py — Main script
 
 README.md — This file
 
+requirements.txt - Required libraries
+
 ## Author
-Your Name — [GitHub Profile Link]
+Sathwik — (https://github.com/Sathwik231012)
